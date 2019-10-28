@@ -17,33 +17,34 @@ The data is provided to you via an API by another team; they assure you all the 
 Use this API as is to output the format specified above in any medium you desire; let it be a website, terminal, file or morse code if that's what you want to do - we just want to see the result somehow.
 
 Sample jsonarray response and sorted Output
-[{
-	"name": "Trainerella",
-	"bands": [{
-		"name": "Manish Ditch",
-		"recordLabel": "ACR"
-	}, {
-		"name": "Wild Antelope",
-		"recordLabel": "Still Bottom Records"
-	}, {
-		"name": "YOUKRANE",
-		"recordLabel": "Anti Records"
-	}, {
-		"name": "Adrian Venti",
-		"recordLabel": "Monocracy Records"
-	}]
-}]
 
-recordLabel   :ACR
-bands         :Manish Ditch
-Musicfestivals:Trainerella
-recordLabel   :Anti Records
-bands         :YOUKRANE
-Musicfestivals:Trainerella
-recordLabel   :Monocracy Records
-bands         :Adrian Venti
-Musicfestivals:Trainerella
-recordLabel   :Still Bottom Records
-bands         :Wild Antelope
-Musicfestivals:Trainerella
+*[{
+*	"name": "Trainerella",
+*	"bands": [{
+*		"name": "Manish Ditch",
+*		"recordLabel": "ACR"
+*	}, {
+*		"name": "Wild Antelope",
+*		"recordLabel": "Still Bottom Records"
+*	}, {
+*		"name": "YOUKRANE",
+*		"recordLabel": "Anti Records"
+*	}, {
+*		"name": "Adrian Venti",
+*		"recordLabel": "Monocracy Records"
+*	}]
+*}]
+
+*recordLabel   :ACR
+*bands         :Manish Ditch
+*Musicfestivals:Trainerella
+*recordLabel   :Anti Records
+*bands         :YOUKRANE
+*Musicfestivals:Trainerella
+*recordLabel   :Monocracy Records
+*bands         :Adrian Venti
+*Musicfestivals:Trainerella
+*recordLabel   :Still Bottom Records
+*bands         :Wild Antelope
+*Musicfestivals:Trainerella
 
