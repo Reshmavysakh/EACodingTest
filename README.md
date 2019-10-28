@@ -48,3 +48,37 @@ Sample jsonarray response and sorted Output
 >ands         :Wild Antelope  
 >Musicfestivals:Trainerella  
 
+Sample Output 2
+
+Response code is: 200
+
+JSON Response in String format
+[{"name":"LOL-palooza","bands":[{"name":"Werewolf Weekday","recordLabel":"XS Recordings"},{"name":"Winter Primates","recordLabel":""},{"name":"Jill Black","recordLabel":"Fourth Woman Records"},{"name":"Frank Jupiter","recordLabel":"Pacific Records"}]},{"name":"Small Night In","bands":[{"name":"Squint-281","recordLabel":"Outerscope"},{"name":"Wild Antelope","recordLabel":"Marner Sis. Recording"},{"name":"Yanke East","recordLabel":"MEDIOCRE Music"},{"name":"The Black Dashes","recordLabel":"Fourth Woman Records"},{"name":"Green Mild Cold Capsicum","recordLabel":"Marner Sis. Recording"}]}]
+
+RecordLabel    :  
+Bands    :Winter Primates  
+Music Festivals :LOL-palooza  
+RecordLabel    :Fourth Woman Records  
+Bands    :Jill Black  
+Music Festivals :LOL-palooza  
+RecordLabel    :Fourth Woman Records  
+Bands    :The Black Dashes  
+Music Festivals :Small Night In  
+RecordLabel    :MEDIOCRE Music  
+Bands    :Yanke East  
+Music Festivals :Small Night In  
+RecordLabel    :Marner Sis. Recording  
+Bands    :Green Mild Cold Capsicum  
+Music Festivals :Small Night In  
+RecordLabel    :Marner Sis. Recording  
+Bands    :Wild Antelope  
+Music Festivals :Small Night In  
+RecordLabel    :Outerscope  
+Bands    :Squint-281  
+Music Festivals :Small Night In  
+RecordLabel    :Pacific Records  
+Bands    :Frank Jupiter  
+Music Festivals :LOL-palooza  
+RecordLabel    :XS Recordings  
+Bands    :Werewolf Weekday  
+Music Festivals :LOL-palooza  
