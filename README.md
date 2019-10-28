@@ -35,16 +35,16 @@ Sample jsonarray response and sorted Output
 	}]
 }]
 
->recordLabel   :ACR
->bands         :Manish Ditch
->Musicfestivals:Trainerella
->recordLabel   :Anti Records
->bands         :YOUKRANE
->Musicfestivals:Trainerella
->recordLabel   :Monocracy Records
->bands         :Adrian Venti
->Musicfestivals:Trainerella
->recordLabel   :Still Bottom Records
->ands         :Wild Antelope
->Musicfestivals:Trainerella
+>recordLabel   :ACR  
+>bands         :Manish Ditch  
+>Musicfestivals:Trainerella  
+>recordLabel   :Anti Records  
+>bands         :YOUKRANE  
+>Musicfestivals:Trainerella  
+>recordLabel   :Monocracy Records  
+>bands         :Adrian Venti  
+>Musicfestivals:Trainerella  
+>recordLabel   :Still Bottom Records  
+>ands         :Wild Antelope  
+>Musicfestivals:Trainerella  
 
