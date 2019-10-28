@@ -18,33 +18,33 @@ Use this API as is to output the format specified above in any medium you desire
 
 Sample jsonarray response and sorted Output
 
-*[{
-*	"name": "Trainerella",
-*	"bands": [{
-*		"name": "Manish Ditch",
-*		"recordLabel": "ACR"
-*	}, {
-*		"name": "Wild Antelope",
-*		"recordLabel": "Still Bottom Records"
-*	}, {
-*		"name": "YOUKRANE",
-*		"recordLabel": "Anti Records"
-*	}, {
-*		"name": "Adrian Venti",
-*		"recordLabel": "Monocracy Records"
-*	}]
-*}]
+[{
+	"name": "Trainerella",
+	"bands": [{
+		"name": "Manish Ditch",
+		"recordLabel": "ACR"
+	}, {
+		"name": "Wild Antelope",
+		"recordLabel": "Still Bottom Records"
+	}, {
+		"name": "YOUKRANE",
+		"recordLabel": "Anti Records"
+	}, {
+		"name": "Adrian Venti",
+		"recordLabel": "Monocracy Records"
+	}]
+}]
 
-*recordLabel   :ACR
-*bands         :Manish Ditch
-*Musicfestivals:Trainerella
-*recordLabel   :Anti Records
-*bands         :YOUKRANE
-*Musicfestivals:Trainerella
-*recordLabel   :Monocracy Records
-*bands         :Adrian Venti
-*Musicfestivals:Trainerella
-*recordLabel   :Still Bottom Records
-*bands         :Wild Antelope
-*Musicfestivals:Trainerella
+recordLabel   :ACR
+bands         :Manish Ditch
+Musicfestivals:Trainerella
+recordLabel   :Anti Records
+bands         :YOUKRANE
+Musicfestivals:Trainerella
+recordLabel   :Monocracy Records
+bands         :Adrian Venti
+Musicfestivals:Trainerella
+recordLabel   :Still Bottom Records
+ands         :Wild Antelope
+Musicfestivals:Trainerella
 
